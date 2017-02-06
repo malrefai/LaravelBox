@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"mount_options":["dmode=755","fmode=666"],"guestpath":"/vagrant","hostpath":"/Users/malrefai/STO/mauedbox/box","disabled":false,"__vagrantfile":true},"/var/www/":{"mount_options":["dmode=755","fmode=775"],"guestpath":"/var/www","hostpath":"/Users/malrefai/STO/mauedbox/www","disabled":false,"__vagrantfile":true}}}
